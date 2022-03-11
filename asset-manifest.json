@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/uygunusec/static/css/main.beba3df4.css",
+    "main.js": "/uygunusec/static/js/main.3eff8b3e.js",
+    "static/js/787.132da649.chunk.js": "/uygunusec/static/js/787.132da649.chunk.js",
+    "static/media/logo1.jpeg": "/uygunusec/static/media/logo1.9e2d47613d9a8612dbb7.jpeg",
+    "static/media/hide-password.svg": "/uygunusec/static/media/hide-password.2aaf769dde9be37e683f78d543bb61d8.svg",
+    "index.html": "/uygunusec/index.html",
+    "static/media/show-password.svg": "/uygunusec/static/media/show-password.7468b27017e6d779e083dd0beabf4efa.svg",
+    "main.beba3df4.css.map": "/uygunusec/static/css/main.beba3df4.css.map",
+    "main.3eff8b3e.js.map": "/uygunusec/static/js/main.3eff8b3e.js.map",
+    "787.132da649.chunk.js.map": "/uygunusec/static/js/787.132da649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beba3df4.css",
+    "static/js/main.3eff8b3e.js"
+  ]
+}
